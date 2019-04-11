@@ -1,0 +1,19 @@
+body {
+ background-color: brown;
+ text-align: center;
+ font-size: .625%;
+}
+
+#title {
+  color: red;
+  font-size: 4rem;
+}
+
+#title-sub{
+  font-size: 2rem;
+  color: pink;
+}
+
+#stock-photo {
+  height: 40rem;
+}
